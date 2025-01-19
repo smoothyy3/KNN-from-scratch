@@ -36,6 +36,15 @@ function, which takes two parameters and returns 1 if they are equal and 0 other
   Scales features to a fixed range, typically \([0, 1]\):  
     <img src="./assets/minmaxformula.png" alt="Min-Max Formula" width="400">
 
+
+### **4. Train-Test Split**
+- A `train_test_split` function is implemented to divide the dataset into training and testing subsets. This allows you to evaluate the performance of the k-NN model on unseen data.
+
+### **5. Accuracy Calculation**
+- An `accuracy` method is implemented to measure the model's performance on classification tasks. It calculates the ratio of correct predictions to the total number of predictions.
+
+---
+
   ## Usage
 1. **Dataset Preparation**
    - Generate a dataset with training and test data.
@@ -48,7 +57,8 @@ function, which takes two parameters and returns 1 if they are equal and 0 other
 
 ## To-Do
 - [ ] Add support for additional distance metrics (e.g., cosine similarity).
-- [ ] Add accuracy for classification.
+- [x] Add accuracy for classification.
+- [x] Add train_test_split.
 - [ ] Add regression.
 - [ ] Add visualization tools for decision boundaries.
       
