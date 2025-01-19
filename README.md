@@ -47,7 +47,8 @@ function, which takes two parameters and returns 1 if they are equal and 0 other
    - Fit the k-NN model with training data and predict for test data.
 
 ## To-Do
-- Add support for additional distance metrics (e.g., cosine similarity).
-- Improve performance for larger datasets.
-- Add visualization tools for decision boundaries.
+- [ ] Add support for additional distance metrics (e.g., cosine similarity).
+- [ ] Add accuracy for classification.
+- [ ] Add regression.
+- [ ] Add visualization tools for decision boundaries.
       
