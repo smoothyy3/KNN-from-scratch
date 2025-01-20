@@ -56,9 +56,14 @@ function, which takes two parameters and returns 1 if they are equal and 0 other
    - Fit the k-NN model with training data and predict for test data.
 
 ## To-Do
-- [ ] Add support for additional distance metrics (e.g., cosine similarity).
-- [x] Add accuracy for classification.
-- [x] Add train_test_split.
-- [ ] Add regression.
-- [ ] Add visualization tools for decision boundaries.
+- ❌ Add support for additional distance metrics (e.g., cosine similarity).
+- ✅ Add accuracy for classification.
+- ✅ Add train_test_split.
+- ❌ Add regression.
+- ❌ Add visualization tools for decision boundaries (will need matplotlib or else massive workload and bad result).
+
+---
+
+## Found a mistake?
+If you find a mistake or have a suggestion for improvement, feel free to point it out and contact me.
       
