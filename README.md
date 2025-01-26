@@ -1,5 +1,5 @@
 # KNN-from-scratch
-This project demonstrates the implementation of the k-Nearest Neighbors (k-NN) algorithm entirely from scratch in Python. Unlike most implementations, this project does not use any machine learning imports nor basic libraries like math, numpy, or pandas. The goal is to provide an extremely fundamental, step-by-step approach to understanding this classic machine learning algorithm.
+This project demonstrates the implementation of the k-Nearest Neighbors (k-NN) algorithm entirely from scratch in Python. This project does not use any machine learning imports nor basic libraries like math, numpy, or pandas. The goal is to provide an extremely fundamental, step-by-step approach to understanding this classic machine learning algorithm.
 
 - **Visual Explanation of k-NN**:  
   The following diagram illustrates how the k-NN algorithm works:  
